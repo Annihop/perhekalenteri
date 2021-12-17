@@ -13,6 +13,9 @@
     <title>Perhekalenteri</title>
   </head>
   <body>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Manrope:wght@400&display=swap');
+  </style>
     <header>
       <h1>Perhekalenteri</h1>
     </header>

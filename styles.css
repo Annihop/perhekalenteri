@@ -1,8 +1,11 @@
 body {
     color: rgb(0, 0, 0);
     background-color: rgb(171, 211, 250);
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Manrope', sans-serif;
 }
 
-.footer {
+footer {
     font-size: 80%
 }
+
