@@ -1,12 +1,15 @@
 <?php
 
+
   require_once("globals.php");
 
 ?>
+
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
     <title>Perhekalenteri</title>
   </head>
   <body>
